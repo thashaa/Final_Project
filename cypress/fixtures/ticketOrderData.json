@@ -1,0 +1,18 @@
+{
+    "contactDetails":{
+        "firstName":"Thasha",
+        "lastName":"Ainsha",
+        "email":"thashadinya@gmail.com",
+        "phoneNumber":"87889043579"
+    },
+    "passengerDetails":{
+        "firstandMiddleName":"Thasha Dinya",
+        "lastNamePassenger":"Ainsha",
+        "dayofBirth":"14",
+        "yearofBirth":"1996",
+        "nationality":"Indonesia",
+        "passportNumber":"C7654321",
+        "passportExpireDay":"14",
+        "passportExpireYear":"2028"
+    }
+}
