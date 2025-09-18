@@ -63,16 +63,4 @@ cypress.config.js
 package.json
 README.md
 
-▶️ How to Run
-# Clone the repository
-git clone https://github.com/your-username/cypress-final-project.git
-cd cypress-final-project
 
-# Install dependencies
-npm install
-
-# Run tests in Cypress Test Runner
-npx cypress open
-
-# Run tests in CLI mode
-npx cypress run
