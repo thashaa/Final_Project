@@ -78,7 +78,7 @@ npx cypress open
 
 # Run tests in CLI mode
 npx cypress run
-
+---
 Videos saved in cypress/videos/.
 HTML reports generated after test run.
 
