@@ -52,22 +52,20 @@ It demonstrates **end-to-end (E2E) test automation** across multiple web applica
 ---
 
 ## 📂 Project Structure
+```plaintext
 cypress/
-├── e2e/ # Test cases
-├── fixtures/ # Test data
-├── pages/ # Page Object Models
-└── support/
+  ├── e2e/         # Test cases
+  ├── fixtures/    # Test data
+  ├── pages/       # Page Object Models
+  └── support/     
 
 cypress.config.js
 package.json
 README.md
 
----
-
-## ▶️ How to Run
-```bash
+▶️ How to Run
 # Clone the repository
-git clone https://github.com/thashaa/Final_Project.git
+git clone https://github.com/your-username/cypress-final-project.git
 cd cypress-final-project
 
 # Install dependencies
@@ -78,13 +76,3 @@ npx cypress open
 
 # Run tests in CLI mode
 npx cypress run
-```
----
-Videos saved in cypress/videos/.
-HTML reports generated after test run.
-
-📹 Deliverables
-
-✅ Cypress E2E tests (Agoda, Amazon, YouTube)
-✅ Video recordings of test execution
-✅ HTML test reports
