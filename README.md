@@ -46,21 +46,7 @@ It demonstrates **end-to-end (E2E) test automation** across multiple web applica
 - **Cypress** for test automation  
 - **JavaScript** as scripting language  
 - **Page Object Model (POM)** design pattern  
-- **Mochawesome** (or similar) for HTML reporting  
+- **Mochawesome** for HTML reporting  
 - **Cypress video recording** for execution documentation  
 
 ---
-
-## 📂 Project Structure
-```plaintext
-cypress/
-  ├── e2e/         # Test cases
-  ├── fixtures/    # Test data
-  ├── pages/       # Page Object Models
-  └── support/     
-
-cypress.config.js
-package.json
-README.md
-
-
